@@ -10,7 +10,8 @@ Qualified Immunity is a judicial doctrine that protects government officials suc
 ## Technology used
 
 - #### Slack: for instant communication - [#racial-justice](https://hackforla.slack.com/archives/C01714H1Z0E) (self invite to the [Hack for LA Slack workspace](https://hackforla.org/slack))
-- #### GitHub & Google Docs: for documentation - [GitHub](https://github.com/hackforla/racial-justice/projects)
+- #### [GitHub Project Board](https://github.com/hackforla/racial-justice/projects): for project management
+- #### Google Drive: for documentation
 - #### Zoom: for check-in meetings
 
 
